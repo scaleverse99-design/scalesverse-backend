@@ -1,2 +1,2 @@
-# scalesverse-backend
+# scaleverse-backend
 ScaleVerse MVP Backend API
