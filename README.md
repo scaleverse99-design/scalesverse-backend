@@ -1,2 +1,2 @@
-# scaleverse-backend
-ScaleVerse MVP Backend API
+# salesverse-backend
+SalesVerse MVP Backend API
